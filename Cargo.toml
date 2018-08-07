@@ -1,0 +1,6 @@
+[package]
+name = "scheme_in_rust"
+version = "0.1.0"
+authors = ["rolandcl"]
+
+[dependencies]
